@@ -4,6 +4,9 @@ font-family: 'Lato', sans-serif;*/
 .ba-header {
   height: 100vh;
   background: url(../img/mainbg.jpg) no-repeat;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   position: relative; }
   .ba-header .ba-conteiner__main {
     padding-top: 50px; }
@@ -120,6 +123,9 @@ font-family: 'Lato', sans-serif;*/
 
 .ba-section__phone {
   background: black url(../img/blackbg.jpg) no-repeat;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   min-height: 500px;
   font-family: 'Lato', sans-serif;
   color: #ffffff;
@@ -236,6 +242,9 @@ font-family: 'Lato', sans-serif;*/
 
 .ba-footer {
   background: url(../img/bgfoot.jpg) no-repeat;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   padding-top: 80px; }
   .ba-footer .ba-caption {
     text-align: center;
